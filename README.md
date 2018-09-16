@@ -1,7 +1,11 @@
 # 8PuzzleAI
 Self Made Artificial Intelligence Agent That Can Solve Any Solvable Configuration of 8 Puzzle Game :)
 
-The empty block is represented by '0',
+The empty block is represented by '0'.
+
+Test here:
+
+http://mypuzzle.org/sliding
 
 Example:
 
